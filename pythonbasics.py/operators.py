@@ -40,3 +40,8 @@ m = 2
 n = 3
 result = m**n
 print(result)
+
+x = 10
+y = 3
+result = x//y
+print(result)
