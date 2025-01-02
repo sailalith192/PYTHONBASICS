@@ -22,3 +22,9 @@ g = 10
 h = 3
 result = g / h
 print(result)
+
+# Integer Division (Floor Division)
+i = 10
+j = 3
+result = i//j
+print(result)
