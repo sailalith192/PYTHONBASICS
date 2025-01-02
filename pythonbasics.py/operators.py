@@ -93,3 +93,8 @@ print(e)
 f = 2
 f **= 3
 print(f)
+
+z = 15
+z /= 3
+print(z)
+
