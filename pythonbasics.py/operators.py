@@ -1,0 +1,24 @@
+#Artimetic Operators
+# Addition
+a = 5
+b = 10
+result = a+b
+print(result)
+
+# Subraction
+c = 7
+d = 3
+result = c-d
+print(result)
+
+# Multiplication
+e = 3
+f = 4
+result = e*f
+print(result)
+
+# Division
+g = 10
+h = 3
+result = g / h
+print(result)
