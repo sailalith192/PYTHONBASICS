@@ -28,3 +28,15 @@ i = 10
 j = 3
 result = i//j
 print(result)
+
+# Modulo (Remainder)
+k = 10
+l = 3
+result = k % l
+print(result)
+
+# Exponentiation
+m = 2
+n = 3
+result = m**n
+print(result)
