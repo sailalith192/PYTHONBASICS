@@ -20,3 +20,4 @@ num2 = 20
 # Check num1 and num2 refer to different values
 result = num1 is not num2
 print(result)
+
